@@ -59,4 +59,4 @@ For the first non-repeating character problem, I chose to ignore spaces and punc
 
 ## 5. Future Improvement
 
-With more time, I would add automated unit tests for the JavaScript functions and Java application, improve input validation, and organize the project with clearer test and source directories.
+With more time, I would improve the email validation to handle more edge cases, make the Java application handle invalid user input more gracefully, and add more test cases for duplicate values, empty inputs, and boundary scores.
