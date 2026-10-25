@@ -60,3 +60,10 @@ For the first non-repeating character problem, I chose to ignore spaces and punc
 ## 5. Future Improvement
 
 With more time, I would improve the email validation to handle more edge cases, make the Java application handle invalid user input more gracefully, and add more test cases for duplicate values, empty inputs, and boundary scores.
+
+## 6. AI Tools and Other Resources
+
+- **ChatGPT:** Used to clarify requirements, review my approach, understand errors, and improve explanations and documentation.
+- **Official documentation:** Used as a reference for Java, JavaScript, and PostgreSQL syntax and concepts.
+
+I reviewed the solutions and made decisions about the implementation myself.
