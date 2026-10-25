@@ -1,4 +1,4 @@
-# CRM Realm Assignment
+# CRM Realm Technical Assessment
 
 ## 1. How to Run
 
