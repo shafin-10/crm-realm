@@ -43,7 +43,7 @@ The SQL queries are provided in `queries.sql` and are written for PostgreSQL. Th
 |---|---|---|
 | First non-repeating character | `"aabbcdd"` | `"c"` |
 | First non-repeating character | `"aabb"` | `null` |
-| First non-repeating character | `"a b a"` | `null` |
+| First non-repeating character | `"AabBc"` | `c` |
 | First non-repeating character | `""` | `null` |
 | Two Sum | `[2, 7, 11, 15]`, target `9` | `[0, 1]` |
 | Two Sum | `[3, 3]`, target `6` | `[0, 1]` |
