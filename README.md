@@ -66,4 +66,3 @@ With more time, I would improve the email validation to handle more edge cases, 
 - **ChatGPT:** Used to clarify requirements, review my approach, understand errors, and improve explanations and documentation.
 - **Official documentation:** Used as a reference for Java, JavaScript, and PostgreSQL syntax and concepts.
 
-I reviewed the solutions and made decisions about the implementation myself.
